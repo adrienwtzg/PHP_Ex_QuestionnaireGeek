@@ -1,0 +1,72 @@
+body {
+    width: 800px;
+    margin: auto;
+	font-family: Arial Unicode MS, Verdana, sans-serif;
+	font-size: 10pt;
+}
+
+#titre {
+	width: 780px;
+	margin: auto;
+	padding-top: 20px;
+}
+
+#contenu {
+	width: 720px;
+	margin: auto;
+	padding: 20px;
+}
+
+.tableau1 {
+	width: 760px;
+	margin: auto;
+	border: 1px solid #111111; 
+	background-color: #000080;
+	vertical-align: middle;
+}
+
+.tableau2 {
+	width: 760px;
+	margin: auto;
+}
+
+.tableau2 td{
+	padding: 10px;
+}
+
+#derniereCase {
+	padding-left: 180px;
+}
+
+.mesBoutons {
+	width: 160px;
+}
+
+h1{
+	color: white;
+	font-family: Arial Black;
+	margin-left: 190px;
+	margin-top: 10px;
+}
+
+.gras{
+	font-weight: bold;	
+}
+
+#boutonRetour{
+	margin-left: 50px;
+	width: 160px;
+}
+
+#reponse{
+	font-family: calibri;
+	font-weight: bold;
+	font-size: 18px;
+	border-radius: 10px;
+	border: 1px solid black;
+	padding: 20px;
+	width: 250px;
+	margin: auto;
+	margin-top: 100px;
+}
+
